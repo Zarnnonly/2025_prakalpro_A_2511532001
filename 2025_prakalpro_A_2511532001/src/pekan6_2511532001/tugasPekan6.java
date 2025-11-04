@@ -9,7 +9,6 @@ public class tugasPekan6 {
         Random acak = new Random();
         int tries = 0;
         boolean berjalan = true;
-        String jawab;
         
          while(berjalan) {
             tries++;
