@@ -17,7 +17,7 @@ public class tugasPekan6 {
                 System.out.println("Anda menang setelah" + " " + tries + " " + "percobaan!");
                 return;
             } else if ( hasil == 2) {
-                System.out.println("Anda Gagal Menang");
+                System.out.println("Anda Gagal Menang!");
                 return;
             }
         }
