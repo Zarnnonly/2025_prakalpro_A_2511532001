@@ -1,0 +1,2 @@
+# Kenapa Commit History Per File Hilang?
+Saya mencoba untuk mengubah branch master menjadi branch main, tetapi pada prosesnya, saya tidak sengaja malah meng-overwrite semua commit history per file. Namun, history commit utama saya masih ada di bagian paling atas repository. Untuk membuktikan saya tidak melakukan kecurangan apapun, berikut saya lampirkan screenshot commit history per file
